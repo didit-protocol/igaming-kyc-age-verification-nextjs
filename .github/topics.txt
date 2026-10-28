@@ -1,0 +1,14 @@
+igaming
+online-casino
+kyc
+age-verification
+identity-verification
+responsible-gambling
+bonus-abuse
+device-fingerprinting
+passkeys
+transaction-monitoring
+nextjs
+typescript
+didit
+reference-implementation
